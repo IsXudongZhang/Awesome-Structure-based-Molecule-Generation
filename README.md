@@ -20,10 +20,7 @@
 
 | Year & Venue | Title & Description | Links |
 | :--- | :--- | :--- |
-
-
 | **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization.** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
-
 | **2025 ICLR** | **Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design.** | [Paper](https://arxiv.org/pdf/2406.10840) \| [Code](https://github.com/EDAPINENUT/CBGBench) |
 | **2024 Nat. Mach. Intell.** | **PocketFlow is A data-and-knowledge-driven structure-based molecular generative model.** | [Paper](https://www.nature.com/articles/s42256-024-00808-8) \| [Code](https://github.com/Saoge123/PocketFlow) |
 | **2024 Nat. Commun.** | **A 3D molecular generative framework for interaction-guided drug design.** | [Paper](https://www.nature.com/articles/s41467-024-47011-2) \| [Code](https://github.com/ACE-KAIST/DeepICL) |
