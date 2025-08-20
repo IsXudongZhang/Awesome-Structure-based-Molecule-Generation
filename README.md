@@ -20,6 +20,10 @@
 
 | Year & Venue | Title & Description | Links |
 | :--- | :--- | :--- |
+
+
+| **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization.** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
+
 | **2025 ICLR** | **Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design.** | [Paper](https://arxiv.org/pdf/2406.10840) \| [Code](https://github.com/EDAPINENUT/CBGBench) |
 | **2024 Nat. Mach. Intell.** | **PocketFlow is A data-and-knowledge-driven structure-based molecular generative model.** | [Paper](https://www.nature.com/articles/s42256-024-00808-8) \| [Code](https://github.com/Saoge123/PocketFlow) |
 | **2024 Nat. Commun.** | **A 3D molecular generative framework for interaction-guided drug design.** | [Paper](https://www.nature.com/articles/s41467-024-47011-2) \| [Code](https://github.com/ACE-KAIST/DeepICL) |
@@ -34,6 +38,8 @@
 | **2023 arXiv** | **GraphVF: Controllable Protein-Specific 3D Molecule Generation with Variational Flow.** | [Paper](https://arxiv.org/pdf/2304.12825) |
 | **2022 NeurIPS** | **Zero-Shot 3D Drug Design by Sketching and Generating.** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/96ddbf813f042e8ff891b4d6f7149bb6-Paper-Conference.pdf) \| [Code](https://github.com/longlongman/DESERT) |
 | **2021 NeurIPS** | **A 3D generative model for structure-based drug design.** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/314450613369e0ee72d0da7f6fee773c-Paper.pdf) \| [Code](https://github.com/luost26/3D-Generative-SBDD) |
+
+
 
 </details>
 
