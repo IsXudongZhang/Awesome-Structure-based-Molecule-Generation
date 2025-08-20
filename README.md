@@ -20,8 +20,10 @@ Structure-Based Drug Discovery (SBDD) is a powerful, rational approach to design
 
 
 
+- CBGBench: Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design.
+📄 [ICLR 2025](https://arxiv.org/pdf/2406.10840)   💻 [Code](https://github.com/EDAPINENUT/CBGBench)
 
-- <span style="color: green;">ICLR  2025</span> CBGBench: Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design.
+- <span style="color: green;">ICLR  2025</span> CBGBench: Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design. 
  [[Paper]](https://arxiv.org/pdf/2406.10840)  [[Code]](https://github.com/EDAPINENUT/CBGBench)
 
 
@@ -62,7 +64,7 @@ Structure-Based Drug Discovery (SBDD) is a powerful, rational approach to design
  [[Paper]](https://arxiv.org/pdf/2303.03543)  [[Code]](https://github.com/guanjq/targetdiff)
 
 
-- <span style="color: green;">ICLR 2023</span>  Molecule generation for target protein binding with structural motifs   
+- <span style="color: green;">ICLR 2023</span>  Molecule generation for target protein binding with structural motifs.
 [[Paper]](https://openreview.net/pdf?id=Rq13idF0F73)  [[Code]](https://github.com/zaixizhang/FLAG)
 
 
