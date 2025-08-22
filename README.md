@@ -20,8 +20,6 @@
 
 | Year & Venue | Title & Description | Links |
 | :--- | :--- | :--- |
-
-
 | **2025 ICML Workshop** | **3D-SBDD meets LLM: Towards FDA-Level Drug Design.** | [Paper](https://openreview.net/attachment?id=J5AkfIKTmE&name=pdf)  |
 | **2025 ICML** | **CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation.** | [Paper](https://openreview.net/pdf?id=FSlTEObdLl)  \| [Code](https://github.com/Tibogoss/CombiMOTS) |
 | **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization.** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
