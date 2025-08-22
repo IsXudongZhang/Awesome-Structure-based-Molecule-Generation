@@ -21,6 +21,8 @@
 
 | Year & Venue | Title | Links | Description |
 | :--- | :--- | :--- | :--- |
+| **2025 OpenReview** | **PoseCheck: Generative Models for 3D Structure-based Drug Design Produce Unrealistic Poses.** | [Paper](https://openreview.net/pdf?id=xoUUCS9IGl)  | |
+| **2025 OpenReview** | **Decomposed Direct Preference Optimization for Structure-Based Drug Design.** | [Paper](https://openreview.net/pdf?id=blSYKTWurU)  | |
 | **2025 ICML Workshop** | **3D-SBDD meets LLM: Towards FDA-Level Drug Design.** | [Paper](https://openreview.net/attachment?id=J5AkfIKTmE&name=pdf)  |
 | **2025 ICML** | **CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation.** | [Paper](https://openreview.net/pdf?id=FSlTEObdLl)  [Code](https://github.com/Tibogoss/CombiMOTS) | Dual-Target |
 | **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization.** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
@@ -50,7 +52,7 @@
 ### Structure-based Molecule Optimization
 *Refining existing lead compounds using protein structural insights.*
 
-<details>
+<details open>
 <summary><b>View Papers (Click to Expand)</b></summary>
 
 | Year & Venue | Title | Links | Description |
@@ -68,7 +70,7 @@
 ### Structure-based Linker Design
 *Designing linkers between two ligands using structural constraints for bifunctional drug design (e.g., PROTACs).*
 
-<details>
+<details open>
 <summary><b>View Papers (Click to Expand)</b></summary>
 
 | Year & Venue | Title | Links | Description |
