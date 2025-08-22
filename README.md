@@ -20,6 +20,7 @@
 
 | Year & Venue | Title & Description | Links |
 | :--- | :--- | :--- |
+| **2025 ICML** | **CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation.** | [Paper](https://openreview.net/pdf?id=FSlTEObdLl)  \| [Code](https://github.com/Tibogoss/CombiMOTS) |
 | **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization.** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
 | **2025 ICLR** | **Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design.** | [Paper](https://arxiv.org/pdf/2406.10840) \| [Code](https://github.com/EDAPINENUT/CBGBench) |
 | **2024 Nat. Mach. Intell.** | **PocketFlow is A data-and-knowledge-driven structure-based molecular generative model.** | [Paper](https://www.nature.com/articles/s42256-024-00808-8) \| [Code](https://github.com/Saoge123/PocketFlow) |
@@ -53,9 +54,8 @@
 | **2025 Nat. Mach. Intell.** | **Deep lead optimization enveloped in protein pocket and its application in designing potent and selective ligands targeting LTK protein.** | [Paper](https://www.nature.com/articles/s42256-025-00997-w) \| [Code](https://github.com/OdinZhang/Delete) |
 | **2025 ICML** | **Empower Structure-Based Molecule Optimization with Gradient Guided Bayesian Flow Networks.** | [Paper](https://openreview.net/pdf?id=CIoBEB17FT) \| [Code](https://github.com/AlgoMole/MolCRAFT) |
 | **2025 arXiv** | **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling.** | [Paper](https://arxiv.org/pdf/2402.14315) |
-
+| **2024 ICLR** | **DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization.** | [Paper](https://arxiv.org/pdf/2403.13829) \| [Code](https://github.com/bytedance/DecompOpt) |
 </details>
-
 ---
 
 ### Structure-based Linker Design
