@@ -15,7 +15,7 @@
 ### Structure-based Molecule Generation
 *De novo generation of molecules within a target protein's binding pocket.*
 
-<details>
+<details open>
 <summary><b>View Papers (Click to Expand)</b></summary>
 
 | Year & Venue | Title & Description | Links |
