@@ -1,19 +1,19 @@
-# Structure-based Drug Discovery (SBDD)
+# Structure-based Molecule Generation (SBDD)
 
-**Structure-Based Drug Discovery (SBDD)** is a powerful, rational approach to designing new medicines that leverages detailed 3D structural knowledge of the biological target (usually a protein) and its interaction with potential drug molecules. It's a cornerstone of modern pharmaceutical research.
+**Structure-based molecule generation (SBMG)** involves using three-dimensional structural information of biological targets, such as protein binding pockets, to **generate, optimize or link small molecules** for drug development. Unlike traditional ligand-based approaches, SBMG methods are **target-aware**, integrating the spatial and chemical characteristics of binding sites into the generation process. This approach enables the de novo creation of novel compounds, the optimization of known lead compounds, and the design of linkers for complex molecules, such as PROTACs. Advancements in **deep generative models, molecular simulation, and structural biology** have made SBMG a pivotal component of modern **structure-based drug discovery (SBDD)**.
 
 ---
 
 ## 📚 Contents
 
-1.  [Structure-based Molecule Generation](#structure-based-molecule-generation)
+1.  [Structure-based de novo Molecule Generation](#structure-based-de-novo-molecule-generation)
 2.  [Structure-based Molecule Optimization](#structure-based-molecule-optimization)
 3.  [Structure-based Linker Design](#structure-based-linker-design)
 
 ---
 
-### Structure-based Molecule Generation
-*De novo generation of molecules within a target protein's binding pocket.*
+### Structure-based de novo Molecule Generation
+*Generating molecules from scratch within the 3D binding pocket of a target protein.*
 
 <details open>
 <summary><b>View Papers (Click to Expand)</b></summary>
@@ -48,7 +48,7 @@
 ---
 
 ### Structure-based Molecule Optimization
-*Optimizing existing lead compounds for better binding affinity, selectivity, or other properties.*
+*Refining existing lead compounds using protein structural insights.*
 
 <details>
 <summary><b>View Papers (Click to Expand)</b></summary>
@@ -66,7 +66,7 @@
 ---
 
 ### Structure-based Linker Design
-*Designing linkers for bifunctional molecules (e.g., PROTACs).*
+*Designing linkers between two ligands using structural constraints for bifunctional drug design (e.g., PROTACs).*
 
 <details>
 <summary><b>View Papers (Click to Expand)</b></summary>
