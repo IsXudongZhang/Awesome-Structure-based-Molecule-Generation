@@ -1,4 +1,4 @@
-# Structure-based Molecule Generation (SBDD)
+# Structure-based Molecule Generation (SBMG)
 
 **Structure-based molecule generation (SBMG)** involves using three-dimensional structural information of biological targets, such as protein binding pockets, to **generate, optimize or link small molecules** for drug development. Unlike traditional ligand-based approaches, SBMG methods are **target-aware**, integrating the spatial and chemical characteristics of binding sites into the generation process. This approach enables the de novo creation of novel compounds, the optimization of known lead compounds, and the design of linkers for complex molecules, such as PROTACs. Advancements in **deep generative models, molecular simulation, and structural biology** have made SBMG a pivotal component of modern **structure-based drug discovery (SBDD)**.
 
