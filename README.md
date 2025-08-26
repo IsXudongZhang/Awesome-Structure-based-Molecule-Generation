@@ -7,8 +7,12 @@
 ## 📚 Contents
 
 1.  [Structure-based de novo Molecule Generation](#structure-based-de-novo-molecule-generation)
+
 2.  [Structure-based Molecule Optimization](#structure-based-molecule-optimization)
+    [Ligand-based Molecule Optimization](#ligand-based-molecule-optimization)
+
 3.  [Structure-based Linker Design](#structure-based-linker-design)
+
 
 ---
 
@@ -66,6 +70,24 @@
 | **2025 arXiv** | **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling** | [Paper](https://arxiv.org/pdf/2402.14315) |
 | **2024 ICLR** | **DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization** | [Paper](https://arxiv.org/pdf/2403.13829)  [Code](https://github.com/bytedance/DecompOpt) |
 | **2023 IJCAI** | **GPMO: Gradient Perturbation-Based Contrastive Learning for Molecule Optimization** | [Paper](https://www.ijcai.org/proceedings/2023/0549.pdf) | |
+</details>
+
+
+---
+
+
+### Ligand-based Molecule Optimization
+
+<details open>
+<summary><b>View Papers (Click to Expand)</b></summary>
+
+| Year & Venue | Title | Links | Description |
+| :--- | :--- | :--- | :--- |
+| **2025 Nat. Commun.** | **Uncertainty quantification with graph neural networks for efficient molecular design** | [Paper](https://www.nature.com/articles/s41467-025-58503-0)   [Code](https://zenodo.org/records/14729023)  |
+| **2024 Communications Chemistry** | **Geometry-complete diffusion for 3D molecule generation and optimization** | [Paper](https://www.nature.com/articles/s42004-024-01233-z)   [Code](https://github.com/BioinfoMachineLearning/Bio-Diffusion)  |
+| **2023 Communications Chemistry** | **Multi-modal molecule structure–text model for text-based retrieval and editing** | [Paper](https://www.nature.com/articles/s42256-023-00759-6)   [Code](https://github.com/chao1224/MoleculeSTM/tree/main)  |
+| **2022 Nat. Mach. Intell.** | **Optimizing molecules using efficient queries from property evaluations** | [Paper](https://www.nature.com/articles/s42256-021-00422-y)   [Code](https://github.com/IBM/QMO)  |
+| **2021 Nat. Mach. Intell.** | **A deep generative model for molecule optimization via one fragment modification** | [Paper](https://www.nature.com/articles/s42256-021-00410-2)   [Code](https://github.com/ziqi92/Modof)  |
 </details>
 
 
