@@ -35,6 +35,7 @@
 | **2024 Nat. Commun.** | **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** | [Paper](https://www.nature.com/articles/s41467-024-46569-1)  [Code](https://github.com/Layne-Huang/PMDM/tree/main) |
 | **2024 Nat. Comput. Sci.** | **Structure-based drug design with equivariant diffusion models** | [Paper](https://www.nature.com/articles/s43588-024-00737-x.pdf)  [Code](https://github.com/arneschneuing/DiffSBDD) |  |
 | **2024 NeurIPS** | **De novo Drug Design using Reinforcement Learning with Multiple GPT Agents** | [Paper](https://arxiv.org/pdf/2401.06155)  [Code](https://github.com/HXYfighter/MolRL-MGPT) |
+| **2024 ICLR** | **Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models** | [Paper](https://openreview.net/pdf?id=qH9nrMNTIW)  [Code](https://github.com/YangLing0818/IPDiff) |
 | **2024 ICLR Workshop** | **Fine-tuning Pocket-conditioned 3D Molecule Generation via Reinforcement Learning** | [Paper](https://openreview.net/pdf?id=hlzRzr9ksu)  [Code](https://github.com/deargen/Pocket2Mol_RL_public) |
 | **2023 Nat. Mach. Intell.** | **ResGen is A pocket-aware 3D molecular generation model based on parallel multiscale modelling** | [Paper](https://www.nature.com/articles/s42256-023-00712-7)  [Code](https://github.com/OdinZhang/ResGen) |
 | **2023 NeurIPS** | **Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6cdd4ce9330025967dd1ed0bed3010f5-Paper-Conference.pdf) |
