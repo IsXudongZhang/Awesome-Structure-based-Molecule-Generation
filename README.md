@@ -8,10 +8,14 @@
 
 1.  [Structure-based de novo Molecule Generation](#structure-based-de-novo-molecule-generation)
 
-2.  [Structure-based Molecule Optimization](#structure-based-molecule-optimization)
-    [Ligand-based Molecule Optimization](#ligand-based-molecule-optimization)
+2.  [Structure-based Molecule Optimization](#structure-based-molecule-optimization) | [Ligand-based Molecule Optimization](#ligand-based-molecule-optimization) 
 
 3.  [Structure-based Linker Design](#structure-based-linker-design)
+
+
+  
+
+
 
 
 ---
