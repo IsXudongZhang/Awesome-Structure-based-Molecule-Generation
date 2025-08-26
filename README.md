@@ -28,7 +28,6 @@
 | **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
 | **2025 ICLR** | **Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design** | [Paper](https://arxiv.org/pdf/2406.10840)  [Code](https://github.com/EDAPINENUT/CBGBench) | Benchmark |
 | **2024 Nat. Commun.** | **TamGen: drug design with target-aware molecule generation through a chemical language model** | [Paper](https://www.nature.com/articles/s41467-024-53632-4)  [Code](https://github.com/SigmaGenX/TamGen) |
-
 | **2024 Nat. Mach. Intell.** | **Generation of 3D molecules in pockets via a language model** | [Paper](https://www.nature.com/articles/s42256-023-00775-6)  [Code](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) |
 | **2024 CoRR** | **SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction** | [Paper](https://arxiv.org/pdf/2406.08961v1)  [Code](https://github.com/bowen-gao/SIU) | Dataset |
 | **2024 Nat. Mach. Intell.** | **PocketFlow is A data-and-knowledge-driven structure-based molecular generative model** | [Paper](https://www.nature.com/articles/s42256-024-00808-8)  [Code](https://github.com/Saoge123/PocketFlow) |
