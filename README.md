@@ -47,7 +47,7 @@
 | **2022 NeurIPS** | **Zero-Shot 3D Drug Design by Sketching and Generating** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/96ddbf813f042e8ff891b4d6f7149bb6-Paper-Conference.pdf)  [Code](https://github.com/longlongman/DESERT) |
 | **2021 Chemical science** | **Generating 3D molecules conditional on receptor binding sites with deep generative models** | [Paper](https://pubs.rsc.org/en/content/articlepdf/2022/sc/d1sc05976a)  [Code](https://github.com/mattragoza/liGAN) |
 | **2021 NeurIPS** | **A 3D generative model for structure-based drug design** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/314450613369e0ee72d0da7f6fee773c-Paper.pdf)  [Code](https://github.com/luost26/3D-Generative-SBDD) |
-| **2020 NeurIPS** | **Three-Dimensional Convolutional Neural Networks and a Cross-Docked Data Set for Structure-Based Drug Design** | [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00411)  [Code](https://github.com/gnina/models) |
+| **2020 JCIM** | **Three-Dimensional Convolutional Neural Networks and a Cross-Docked Data Set for Structure-Based Drug Design** | [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00411)  [Code](https://github.com/gnina/models) | Dataset |
 
 </details>
 
