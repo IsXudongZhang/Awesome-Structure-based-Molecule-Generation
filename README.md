@@ -69,6 +69,8 @@
 
 | Year & Venue | Title | Links | Description |
 | :--- | :--- | :--- | :--- |
+| **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ)  |
+| **2025 TMLR under review** | **Decomposed Direct Preference Optimization for Structure-Based Drug Design** | [Paper](https://openreview.net/pdf?id=dwSpo5DRk8)|
 | **2025 Nat. Mach. Intell.** | **Deep lead optimization enveloped in protein pocket and its application in designing potent and selective ligands targeting LTK protein** | [Paper](https://www.nature.com/articles/s42256-025-00997-w)  [Code](https://github.com/OdinZhang/Delete) |
 | **2025 ICML** | **Empower Structure-Based Molecule Optimization with Gradient Guided Bayesian Flow Networks** | [Paper](https://openreview.net/pdf?id=CIoBEB17FT)  [Code](https://github.com/AlgoMole/MolCRAFT) |
 | **2025 arXiv** | **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling** | [Paper](https://arxiv.org/pdf/2402.14315) |
