@@ -78,7 +78,7 @@
 
 
 ---
-
+  
 
 ### Ligand-based Molecule Optimization
 
@@ -106,5 +106,6 @@
 | Year & Venue | Title | Links | Description |
 | :--- | :--- | :--- | :--- |
 | **2025 ICML** | **Domain-Adapted Diffusion Model for PROTAC Linker Design Through the Lens of Density Ratio in Chemical Space** | [Paper](https://openreview.net/pdf?id=jkyUbkNJyH) |
+| **2025 ICML** | **Equivariant 3D-conditional diffusion model for molecular linker design** | [Paper](https://www.nature.com/articles/s42256-024-00815-9)  [Code](https://github.com/igashov/DiffLinker)|
 
 </details>
