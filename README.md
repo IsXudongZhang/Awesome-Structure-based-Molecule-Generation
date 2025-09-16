@@ -33,6 +33,7 @@
 | **2025 OpenReview** | **Decomposed Direct Preference Optimization for Structure-Based Drug Design** | [Paper](https://openreview.net/pdf?id=blSYKTWurU)  | |
 | **2025 ICML Workshop** | **3D-SBDD meets LLM: Towards FDA-Level Drug Design** | [Paper](https://openreview.net/attachment?id=J5AkfIKTmE&name=pdf)  |
 | **2025 ICML** | **CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation** | [Paper](https://openreview.net/pdf?id=FSlTEObdLl)  [Code](https://github.com/Tibogoss/CombiMOTS) | Dual-Target |
+| **2025 BIB** | **Deep reinforcement learning as an interaction agent to steer fragment-based 3D molecular generation for protein pockets** | [Paper](https://academic.oup.com/bib/article/26/4/bbae531/8222510)  [Code](https://github.com/ispc-lab/AMG) | |
 | **2025 ICML** | **Enhancing Ligand Validity and Affinity in Structure-Based Drug Design with Multi-Reward Optimization** | [Paper](https://openreview.net/pdf?id=gmFeso9sXJ) |
 | **2025 ICLR** | **Complex Binding Graph Benchmark is a benchmark for generative target-aware molecule design** | [Paper](https://arxiv.org/pdf/2406.10840)  [Code](https://github.com/EDAPINENUT/CBGBench) | Benchmark |
 | **2024 Nat. Commun.** | **TamGen: drug design with target-aware molecule generation through a chemical language model** | [Paper](https://www.nature.com/articles/s41467-024-53632-4)  [Code](https://github.com/SigmaGenX/TamGen) |
